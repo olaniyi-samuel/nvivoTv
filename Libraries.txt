@@ -1,0 +1,6 @@
+Inclusive libraries in my project include;
+
+font awesome
+max cdn
+google apis
+movie card
